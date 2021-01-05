@@ -2,6 +2,8 @@
 
 ## Web development and technology is something I am really passionate about.
 
+<br>
+
 - 📚 I’m currently learning all about MERN stack and working on some projects while at it 😄
 - 🧐 Searching for full time job.
 - 🥅 2021 Goals:
@@ -9,9 +11,9 @@
   - learn as much as I can on web development 😎
 - ⚡ Fun fact: I love traveling and playing video games.
 
-<br />
-
 ### Languages and Tools:
+
+<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -34,6 +36,8 @@
 <br>
 
 ### Connect with me:
+
+<br>
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
