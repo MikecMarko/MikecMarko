@@ -1,6 +1,6 @@
-### Hi there, I'm Marko 👋
+## Hi there, I'm Marko 👋
 
-## Web development and technology is something I am really passionate about.
+### Web development and technology is something I am really passionate about.
 
 <br>
 
@@ -40,5 +40,5 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://mikecmarko.github.io/
+[linkedin]: https://www.linkedin.com/in/marko-mikec-957767171/
