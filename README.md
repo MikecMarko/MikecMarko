@@ -1,4 +1,4 @@
-# Hi there, I'm Marko. 👋
+## Hi there, I'm Marko. 👋
 
 ## Web development and technology is something I am really passionate about.
 
