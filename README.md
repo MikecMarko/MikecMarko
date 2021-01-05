@@ -2,7 +2,7 @@
 
 ## I am also a hard working person interested in web development and technology. I would like to further specialize as a full stack web developer to deepen my knowledge in development of functional and user-friendly websites.
 
-- 🌱 I’m currently learning all about mern stack 🤣
+- 🌱 I’m currently learning all about MERN stack and working on some projects while at it
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
