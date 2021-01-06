@@ -29,7 +29,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Firebase" width="19px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
+<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -39,8 +39,8 @@
 <img align="left" alt="VB" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/2807/2807921.svg" />
 <img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
 <img align="left" alt="CISCO" width="26px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" />
-<img align="left" alt="CISCO" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Office_logo.png" />
-<img align="left" alt="CISCO" width="26px" src="https://w7.pngwing.com/pngs/909/266/png-transparent-microsoft-dynamics-nav-microsoft-dynamics-ax-enterprise-resource-planning-dynamics-365-microsoft-text-service-logo.png" />
+<img align="left" alt="OFFICE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Office_logo.png" />
+<img align="left" alt="NAV" width="26px" src="https://w7.pngwing.com/pngs/909/266/png-transparent-microsoft-dynamics-nav-microsoft-dynamics-ax-enterprise-resource-planning-dynamics-365-microsoft-text-service-logo.png" />
 
 <br />
 <br />
