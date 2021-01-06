@@ -1,4 +1,4 @@
-![](Images/coding.gif)
+<img src="Images/coding.gif" height="250" width="100%">
 
 ## Hi there, I'm Marko 👋
 
