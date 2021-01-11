@@ -12,6 +12,7 @@
   - be a lot more active on GitHub.
   - learn as much as I can on web development 😎
   - do a lot more software developing 💻
+  - move to the Netherlands ✈
 - ⚡ Fun fact: I love traveling and playing video games.
 
 ### Connect with me:
