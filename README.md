@@ -1,4 +1,4 @@
-<img src="Images/coding.gif" height="250" width="100%">
+<img src="Images/MM-LI-cover copy.png" height="250" width="100%">
 
 ## Hi there, I'm Marko 👋
 
