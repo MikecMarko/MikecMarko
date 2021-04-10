@@ -7,7 +7,7 @@
 <br>
 
 - 📚 I’m currently learning all about MERN stack and working on some projects while at it 😄
-- 🧐 Searching for full time job.
+- 🧐 Searching for full time job. ✅
 - 🥅 2021 Goals:
   - be a lot more active on GitHub.
   - learn as much as I can on web development 😎
