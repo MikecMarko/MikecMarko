@@ -40,10 +40,10 @@
 <img align="left" alt="GitHub" width="26px" src="Images/GITHUB.png" />
 <img align="left" alt="Python" width="26px" src="Images/PYTHON.png" />
 <img align="left" alt="VB" width="26px" src="Images/VISUALBASIC.png" />
-<img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/452/c-plus-plus-logo.png" />
-<img align="left" alt="CISCO" width="26px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" />
-<img align="left" alt="OFFICE" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Office_logo.png" />
-<img align="left" alt="NAV" width="26px" src="https://w7.pngwing.com/pngs/909/266/png-transparent-microsoft-dynamics-nav-microsoft-dynamics-ax-enterprise-resource-planning-dynamics-365-microsoft-text-service-logo.png" />
+<img align="left" alt="c++" width="26px" src="Images/C++.png" />
+<img align="left" alt="CISCO" width="26px" src="Images/CISCO.png" />
+<img align="left" alt="OFFICE" width="26px" src="Images/OFFICE.png" />
+<img align="left" alt="NAV" width="26px" src="Images/NAV.png" />
 
 <br />
 <br />
