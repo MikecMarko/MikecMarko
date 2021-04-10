@@ -41,9 +41,9 @@
 <img align="left" alt="Python" width="26px" src="Images/PYTHON.png" />
 <img align="left" alt="VB" width="26px" src="Images/VISUALBASIC.png" />
 <img align="left" alt="c++" width="26px" src="Images/C++.png" />
-<img align="left" alt="CISCO" width="26px" src="Images/CISCO.png" />
+<img align="left" alt="CISCO" width="26px" src="Images/cisco.png" />
 <img align="left" alt="OFFICE" width="26px" src="Images/OFFICE.png" />
-<img align="left" alt="NAV" width="26px" src="Images/NAV.png" />
+<img align="left" alt="NAV" width="26px" src="Images/DYNAMICS.png" />
 
 <br />
 <br />
