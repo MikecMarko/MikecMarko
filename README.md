@@ -15,9 +15,9 @@
   - move to the Netherlands ✈ ✅
 - ⚡ Fun fact: I love traveling and playing video games.
 
-## At the moment I'm not working that much on side projects since I just moved and got a new job.
+#### At the moment I'm not working that much on side projects since I just moved and got a new job.
 
-## Hopefully that will change soon 😊
+#### Hopefully that will change soon 😊
 
 ### Connect with me:
 
