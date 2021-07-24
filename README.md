@@ -6,7 +6,7 @@
 
 <br>
 
-- 📚 I’m currently learning all about MERN stack and working on some projects while at it 😄
+- 📚 Learning as much as I can on PHP/MySQL & MERN stack and working on some projects while at it 😄
 - 🧐 Searching for full time job. ✅
 - 🥅 2021 Goals:
   - be a lot more active on GitHub.
@@ -14,6 +14,10 @@
   - do a lot more software developing 💻
   - move to the Netherlands ✈ ✅
 - ⚡ Fun fact: I love traveling and playing video games.
+
+## At the moment I'm not working that much on side projects since I just moved and got a new job.
+
+## Hopefully that will change soon 😊
 
 ### Connect with me:
 
